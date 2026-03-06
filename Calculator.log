@@ -1,0 +1,6 @@
+[INFO ] 2026-03-06 14:47:03.721 [com.devops.Main.main()] Main - User selected option: 1
+[INFO ] 2026-03-06 14:47:06.436 [com.devops.Main.main()] Calculator - Square root of 4.0 is 2.0
+[INFO ] 2026-03-06 14:47:10.990 [com.devops.Main.main()] Main - User selected option: 2
+[INFO ] 2026-03-06 14:47:15.122 [com.devops.Main.main()] Calculator - Factorial of 4 is 24
+[INFO ] 2026-03-06 14:47:18.187 [com.devops.Main.main()] Main - User selected option: 5
+[INFO ] 2026-03-06 14:47:18.188 [com.devops.Main.main()] Main - User exited the calculator.
